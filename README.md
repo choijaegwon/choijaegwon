@@ -1,4 +1,4 @@
-
+iOS & Flutter Developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choijaegwon&show_icons=true&theme=dark)
 
 Notion Portfolio   
