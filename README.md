@@ -3,6 +3,9 @@
 Notion Portfolio   
 https://violet-echinodon-a79.notion.site/APP-1a22764d5e024b219794f7ae023cbad0?pvs=4  
 
+Medium  
+https://medium.com/@chl20839338  
+
 TIL (2023.04 ~ Today)   
 https://github.com/choijaegwon/TIL  
 
