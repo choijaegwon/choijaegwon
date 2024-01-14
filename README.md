@@ -4,7 +4,7 @@ Notion Portfolio
 https://violet-echinodon-a79.notion.site/APP-1a22764d5e024b219794f7ae023cbad0?pvs=4  
 
 Medium (2024.01 ~ Today)   
-https://medium.com/@choijaegwon
+https://medium.com/@moo_min
 
 TIL (2023.04 ~ Today)   
 https://github.com/choijaegwon/TIL  
